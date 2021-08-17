@@ -1,6 +1,6 @@
 [MetaData]
 Language=Swedish - Sweden
-Translator=Pontus (@PontusDacke)
+Translator=pontusdacke
 Version= 2.2.5.0
 [Strings]
 Donate=Donera
@@ -9,7 +9,7 @@ Your Windows 11 Compatibility Results are Below=Ditt Windows 11 kompabilitetsres
 Now Reach WhyNotWin11 via https://www.whynotwin11.org/=Du når WhyNotWin11 via https://www.whynotwin11.org/
 Results Based on Currently Known Requirements!=Resultatet är baserat på nuvarande kända kriterier!
 Translation by=Översatt av
-Architecture (CPU + OS)=Arkitektur (CPU + OS)
+Architecture=Arkitektur (CPU + OS)
 Boot Method=Bootmetod
 CPU Compatibility=CPU-Kompatabilitet
 CPU Core Count=Antal CPU-kärnor
@@ -47,7 +47,7 @@ No DirectX 12, but WDDM2=DirectX 12 saknas, men WDDM2 finns
 DirectX 12, but no WDDM2=DirectX 12 finns, men WDDM2 saknas
 No DirectX 12 or WDDM2=Både DirectX 12 och WDDM2 saknas
 Test Build?=Test bygge?
-You're running a newer build than publically Available!=Du kör en nyare version än vad som är tillgängligt publikt!
+You're running a newer build than publicly Available!=Du kör en nyare version än vad som är tillgängligt publikt!
 Up to Date=Uppdaterad
 You're running the latest build!=Du kör den senaste versionen!
 Unable to Check for Updates=Kan ej kolla efter uppdateringar

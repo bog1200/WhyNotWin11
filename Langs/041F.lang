@@ -1,7 +1,7 @@
 [MetaData]
 Language=Turkish - Turkey
 Translator=eren885
-Version=2.2.5.0
+Version=2.3.2.0
 [Strings]
 Donate=Bağış
 Check for Updates=Güncellemeleri kontrol et
@@ -9,7 +9,7 @@ Your Windows 11 Compatibility Results are Below=Windows 11 ile uyumluluk sonuçl
 Now Reach WhyNotWin11 via https://www.whynotwin11.org/=WhyNotWinn11'e şimdi https://www.whynotwin11.org/ üzerinden ulaş!
 Results Based on Currently Known Requirements!=Sonuçlar, şu anki bilinen gereksinlimlere göre derlenmiştir!
 Translation by=Bu uygulama şu kişi tarafından çevrildi;
-Architecture (CPU + OS)=Mimari (İşlemci + İşletim sistemi)
+Architecture=Mimari (İşlemci + İşletim sistemi)
 Boot Method=Boot Metodu
 CPU Compatibility=İşlemci uyumluğu
 CPU Core Count=İşlemci çekirdek sayısı
@@ -30,7 +30,7 @@ Unable to Check List=Liste kontrol edilemedi
 Error Accessing List=Listeye erişilemedi
 Not Currently Listed as Compatible=Şu anda uyumlu olarak listelenmemiş
 Listed as Compatible=Uyumlu olarak listelenmiş
-Cores=Çekirdekler
+Cores=Çekirdek
 Threads=İş parçacağı
 GPT Detected=GPT tespit edildi
 GPT Not Detected=GPT tespit edilmedi
@@ -47,7 +47,7 @@ No DirectX 12, but WDDM2=DirectX 12 var, ancak WDDM2
 DirectX 12, but no WDDM2=DirectX 12, ancak WDDM2 yok
 No DirectX 12 or WDDM2=DirectX 12 veya WDDM2 yok
 Test Build?=Test sürümü?
-You're running a newer build than publically Available!=Herkese yayınlanan sürümlerden daha yeni bir sürüm kullanıyorsunuz!
+You're running a newer build than publicly Available!=Herkese yayınlanan sürümlerden daha yeni bir sürüm kullanıyorsunuz!
 Up to Date=Güncel
 You're running the latest build!=En yeni sürümü kullanıyorsunuz!
 Unable to Check for Updates=Güncellemeler kontrol edilemedi
